@@ -4,7 +4,7 @@
 
 This Project utilizes HTML, CSS and Bootstrap along with Python (Jupyter Notebook using pandas, matplotlib and numpy libraries) to analyze Cities data to find relationship between cities latitude Vs. Temperature, Humidity, Cloudiness and Wind Speed using Scatter Plots. The scatter plot reveals correlation (positive, negative or no correlation ) in a large amount of data.
 
-Individual pages for each plot have been created using jupyter notebook  along with the means by which we can navigate between them.
+Individual pages for each plot have been created using jupyter notebook along with the means by which we can navigate between them.
 
 These pages contain the visualizations and their corresponding explanations. 
 
